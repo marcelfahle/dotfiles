@@ -4,6 +4,9 @@
 autocmd!
 
 call pathogen#incubate()
+"call pathogen#infect()
+"call pathogen#infect()
+"call pathogen#infect()
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " BASIC EDITING CONFIGURATION
